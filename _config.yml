@@ -1,11 +1,11 @@
 # Site settings
 author: James Dodds
-title: 
+title: James' Flatiron Software Engineering Course Blog
 header-img: img/home-bg.png
 email: dodds1990@gmail.com
 copyright_name: James Dodds
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The First Blog of Mine
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Clannis
