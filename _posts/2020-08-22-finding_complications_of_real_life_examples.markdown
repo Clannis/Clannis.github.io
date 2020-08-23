@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Finding Complications of Real Life Examples"
-date:       2020-08-23 03:06:33 +0000
+date:       2020-08-22 23:06:34 -0400
 permalink:  finding_complications_of_real_life_examples
 ---
 
@@ -17,4 +17,4 @@ This basically equates to creating double the views, but in order to follow REST
 
 These complications came from just producing a fuctional application. There were more that were produced from following the extra requirements of the project. In order to add nested routing many links needed to be changed. But these links are already under logic depending on who was logged in. Now I have to add logic to change link routing depending on who is logged in or the existance of what objects exist and are related to the object that is logged in. As you can see, we are getting into multiple nested logic statements. The number of possiblities is exponentially increasing and each posibility needed to be accounted. 
 
-After completing all of the requirements and having the application fully functional the only thing that was left was to make it look pretty. **Enter CSS**. Well, I would like to say that but I ran out of time to put in a lot of CSS before the project deadline. Luckily CSS is not one of the projects requirements. I will however come back at a later time and spruce up the visuals so that using this project for my portofolio is more apealing to those demo-ing it. All-in-all I am very happy with the outcome. I feel that I have gained a great appreciation for some of the web applications i have used throughout my time online. There is way more work that goes into a simple looking web app than i originally had throught.
+After completing all of the requirements and having the application fully functional the only thing that was left was to make it look pretty. **Enter CSS**. Well, I would like to say that but I ran out of time to put in a lot of CSS before the project deadline. Luckily CSS is not one of the projects requirements. I will however come back at a later time and spruce up the visuals so that using this project for my portofolio is more apealing to those demo-ing it. All-in-all I am very happy with the outcome. I feel that I have gained a great appreciation for some of the web applications I have used throughout my time online. There is way more work that goes into a simple looking web app than I originally had throught.
