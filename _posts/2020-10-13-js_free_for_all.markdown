@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JS Free For All"
-date:       2020-10-13 19:34:00 +0000
+date:       2020-10-13 15:34:01 -0400
 permalink:  js_free_for_all
 ---
 
@@ -15,4 +15,10 @@ Another issue I have found is the super repetitive nature of JS. The bulk of the
 3. Add/Manipulate inner Text/HTML
 4. Change CSS or append new Element
 
-This is repeated over and over through my code. I feel there should be some of the “Rails Magic” introduced to this to lessen the amount of code to write. I think there should be some sort of built in function where you can pass in arguments for “type of HTML Element”, “class name(s)”, “element content”, and “parent node”. This presumably one line of code could cut the amount of code needed by 75%, thereby streamlining the creation process. Maybe React or other frameworks that are out there will do this. I guess I will find out come our next Module.
+This is repeated over and over through my code. I feel there should be some of the “Rails Magic” introduced to this to lessen the amount of code to write. I think there should be some sort of built in function where you can pass in arguments for “type of HTML Element”, “class name(s)”, “element content”, and “parent node”. 
+
+```
+newElement = document.addElement("elementType", "class names", "innerInfo", parentNode)
+```
+
+This presumably one line of code could cut the amount of code needed by 75%, thereby streamlining the creation process. Maybe React or other frameworks that are out there will do this. I guess I will find out come our next Module.
